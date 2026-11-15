@@ -1,0 +1,44 @@
+{
+  "principals": {
+    "User:pay": {
+      "topics": [
+        "pay.",
+        "shared."
+      ],
+      "groups": [
+        "pay-"
+      ],
+      "ops": [
+        "Read",
+        "Write",
+        "Describe"
+      ]
+    },
+    "User:ops": {
+      "topics": [
+        "ops."
+      ],
+      "groups": [
+        "ops-"
+      ],
+      "ops": [
+        "Read",
+        "Describe"
+      ]
+    }
+  },
+  "allowed_resources": [
+    "Topic",
+    "Group"
+  ],
+  "name_deny_substrings": [
+    "*",
+    "..",
+    "//"
+  ],
+  "group_required_for": [
+    "Read"
+  ],
+  "clock_skew_seconds": 90,
+  "max_age_seconds": 600
+}

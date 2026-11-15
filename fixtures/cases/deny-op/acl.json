@@ -1,0 +1,11 @@
+{
+  "principal": "User:ops",
+  "resource": "Topic",
+  "name": "ops.jobs",
+  "op": "Write",
+  "group": "",
+  "nonce": "n-deny-op",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "if2rIInaEixwqSvXmoOSJhxC2Ub_jTHA_7jbPtT-uZw"
+}

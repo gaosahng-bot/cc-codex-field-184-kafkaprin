@@ -1,0 +1,11 @@
+{
+  "principal": "User:pay",
+  "resource": "Topic",
+  "name": "pay.ledger",
+  "op": "Write",
+  "group": "",
+  "nonce": "n-deny-replay",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "MDYEf-oZ5C0FEVeZSixGw0Zuu3wKrfv1mEqlqQZFC0E"
+}

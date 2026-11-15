@@ -1,0 +1,11 @@
+{
+  "principal": "User:ops",
+  "resource": "Topic",
+  "name": "pay.ledger",
+  "op": "Read",
+  "group": "ops-1",
+  "nonce": "n-deny-topic",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "gEvwvFF5pcbWqntqj25wfjLQVccj8q7rQplb8sG6G2A"
+}

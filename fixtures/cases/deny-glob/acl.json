@@ -1,0 +1,11 @@
+{
+  "principal": "User:pay",
+  "resource": "Topic",
+  "name": "pay.*",
+  "op": "Write",
+  "group": "",
+  "nonce": "n-deny-glob",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "J9Y7QRyeTIly9XDzyfY_zLjChxiwRReT-tdkH2T-XIU"
+}

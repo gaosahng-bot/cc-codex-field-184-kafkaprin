@@ -1,0 +1,11 @@
+{
+  "principal": "User:eve",
+  "resource": "Topic",
+  "name": "pay.ledger",
+  "op": "Write",
+  "group": "",
+  "nonce": "n-deny-principal",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "7rWgHrkz6qkkjG2SQ9TSHclT1RAOxA94lUsoG3HOjis"
+}

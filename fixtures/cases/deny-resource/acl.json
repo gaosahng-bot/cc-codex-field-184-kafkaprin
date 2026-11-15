@@ -1,0 +1,11 @@
+{
+  "principal": "User:pay",
+  "resource": "Cluster",
+  "name": "kafka-cluster",
+  "op": "Describe",
+  "group": "",
+  "nonce": "n-deny-resource",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "dsIifvB_9f-eqCOsJq3WW3nG8wwQutCnmCkyxzpwCLg"
+}
